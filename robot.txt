@@ -1,0 +1,5 @@
+# robot.txt for mjvw.github.io
+
+User-Agent: *
+Disallow: /pages/career-track.html
+
